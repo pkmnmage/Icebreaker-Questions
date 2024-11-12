@@ -1,0 +1,213 @@
+What's your favorite book?
+What's your go-to karaoke song?
+Coffee or tea?
+Mountains or beach?
+Early bird or night owl?
+Dog person or cat person?
+What's your dream travel destination?
+Marvel or DC?
+What's your favorite hobby?
+What's your favorite movie?
+Are you a morning person?
+What's your favorite cuisine?
+What's your favorite season?
+Introvert or extrovert?
+What's your biggest pet peeve?
+Are you a good cook?
+Do you prefer texting or calling?
+Sweet or savory?
+What's your favorite TV show?
+What's your dream job?
+Do you like surprises?
+Android or iPhone?
+What's your favorite sport?
+What's your hidden talent?
+What's your favorite childhood memory?
+Are you a risk-taker?
+What's your favorite type of music?
+What's your favorite color?
+Do you believe in luck?
+What's your favorite board game?
+What's your favorite ice cream flavor?
+Do you prefer city life or country life?
+Are you a morning or night shower person?
+What's your favorite holiday?
+Do you enjoy dancing?
+Are you a good swimmer?
+What's your favorite quote?
+Are you a morning coffee person?
+Do you like spicy food?
+What's your favorite animal?
+What's your favorite childhood cartoon?
+What's your favorite type of art?
+What's your favorite form of exercise?
+Do you enjoy camping?
+Are you a good dancer?
+What's your favorite type of dessert?
+Do you have any phobias?
+What's your favorite outdoor activity?
+Are you a good driver?
+Do you enjoy shopping?
+What's your favorite type of weather?
+What's your favorite type of flower?
+Do you enjoy gardening?
+What's your favorite type of movie genre?
+Do you enjoy cooking?
+Are you a morning or night person?
+What's your favorite musical instrument?
+Do you enjoy hiking?
+What's your favorite type of pizza?
+Are you a beach or pool person?
+Do you enjoy painting or drawing?
+What's your favorite childhood game?
+Do you enjoy attending live events?
+What's your favorite type of shoe?
+Do you enjoy singing?
+What's your favorite type of dance?
+Are you a good singer?
+Do you enjoy skiing or snowboarding?
+What's your favorite type of cookie?
+Do you enjoy playing video games?
+What's your favorite type of car?
+Are you a morning or night exerciser?
+Do you enjoy DIY projects?
+What's your favorite childhood toy?
+Are you a good painter?
+Do you enjoy fishing?
+What's your favorite type of coffee?
+Do you enjoy playing sports?
+What's your favorite type of pasta?
+Are you a morning or night reader?
+What's your favorite type of cheese?
+Do you enjoy knitting or crocheting?
+What's your favorite childhood TV show?
+Are you a good writer?
+Do you enjoy cycling?
+What's your favorite type of sandwich?
+What is the perfect sandwich?
+What's your favorite type of fruit?
+Do you enjoy photography?
+What's your favorite childhood candy?
+Are you a good photographer?
+Do you enjoy horseback riding?
+What's your favorite type of tea?
+What's your favorite type of vegetable?
+Do you play any musical instruments?
+Do you enjoy watching documentaries?
+What's your favorite type of pastry?
+Are you a good storyteller?
+Are you a morning or night pooper?
+What's your favorite type of fruit juice?
+Do you enjoy yoga or meditation?
+What's your favorite type of bread?
+Are you a good public speaker?
+Do you enjoy attending theater performances?
+What's your favorite type of cookie?
+What's your favorite type of soup?
+Are you a good listener?
+Do you enjoy attending art exhibitions?
+Do you enjoy solving puzzles?
+What's your favorite drink?
+What's your favorite type of ice cream topping?
+What's your favorite type of pizza topping?
+If you could master any skill instantly, what would it be?
+What’s the most spontaneous thing you’ve ever done?
+If you could have dinner with any historical figure, who would it be and why?
+What’s the strangest thing you’ve ever eaten?
+If you could live in any fictional universe, where would it be?
+What’s a hobby you’ve always wanted to try but never have?
+What’s your favorite way to unwind after a long day?
+If you could only listen to one song for the rest of your life, what would it be?
+What's the most memorable concert or live event you’ve attended?
+If you could swap places with someone for a day, who would it be?
+What’s your favorite fun fact?
+If you had to teach a class on one thing, what would it be?
+What’s the most interesting place you’ve visited?
+If you could invent a holiday, what would it celebrate?
+What’s a movie or show you wish had a sequel?
+If you could only eat one food for the rest of your life, what would it be?
+What’s the last show you binge-watched?
+What’s the most adventurous thing you’ve ever done?
+If you had a superpower, what would it be and why?
+What’s the weirdest dream you’ve ever had?
+If you were an animal, what would you be and why?
+What’s a talent you wish you had?
+What’s the best piece of advice you’ve ever received?
+What’s your guilty pleasure?
+What’s a hidden gem in your hometown?
+What’s the best thing you’ve ever won?
+What’s your biggest fear that you’ve overcome?
+What’s a book that had a significant impact on you?
+If you could meet any celebrity, who would it be?
+What’s your go-to comfort movie?
+What’s the most beautiful place you’ve ever been?
+If you could change one thing about the world, what would it be?
+What’s the best gift you’ve ever received?
+If you could play any role in a movie, what character would you choose?
+What’s your proudest accomplishment?
+What’s the most embarrassing thing that’s happened to you?
+If you could time travel, would you go to the past or the future?
+What’s something that instantly makes your day better?
+If you had a theme song, what would it be?
+What’s the most unusual item on your bucket list?
+What’s your favorite app that you can’t live without?
+If you had a chance to write a book, what genre would it be?
+What’s a unique tradition your family has?
+What’s the most important lesson you’ve learned recently?
+If you could learn a new language instantly, which one would it be?
+What’s your favorite memory from childhood summers?
+If you could own any exotic pet, what would it be?
+What’s your go-to karaoke song choice?
+What’s one thing you wish you were better at?
+What’s something quirky about you that few people know?
+What’s your favorite way to spend a rainy day?
+If you could design your perfect day, what would it look like?
+What’s the most unusual job you’ve ever had?
+What’s your favorite thing to do on a lazy weekend?
+If you could create your own signature dish, what would it be?
+What’s a song lyric that resonates with you the most?
+What’s the most daring thing you’ve ever tried?
+If you could instantly become an expert at any sport, which would it be?
+What’s one trend you hope comes back in style?
+If you had to choose an alternate career path, what would it be?
+What’s the funniest thing that’s happened to you recently?
+If you could host a talk show, who would be your first guest?
+What’s a movie scene that always makes you laugh?
+What’s your favorite way to stay active?
+If you could create an amusement park ride, what would it be like?
+What’s the best prank you’ve ever pulled or seen?
+If you could speak to animals, what’s the first thing you would ask?
+What’s something you wish more people knew about you?
+If you could have any job for just one day, what would it be?
+What’s the first thing you would do if you won the lottery?
+What’s the last thing that made you genuinely laugh out loud?
+What’s a tradition or custom from another culture that you admire?
+What’s your favorite memory from school?
+If you could pick any decade to live in, which would it be and why?
+What’s your favorite fictional villain and why?
+If you could make a cameo appearance in any show or movie, what would it be?
+What’s a quirky skill you have that surprises people?
+What’s a comfort food that reminds you of your childhood?
+If you could be any mythical creature, which would you choose?
+What’s the most creative project you’ve ever worked on?
+What’s something on your bucket list that you want to accomplish soon?
+If you could start any business, what would it be?
+What’s the most thoughtful gift you’ve ever given someone?
+What’s a talent you have that’s not useful but fun?
+If you could decorate your space with any theme, what would it be?
+What’s your go-to way to beat boredom?
+What’s the best advice you’d give to your past self?
+If you could have any artist or band play at your party, who would it be?
+What’s a current trend you don’t understand?
+What’s the best compliment you’ve ever received?
+If you could live in any era’s fashion, which would you pick?
+What’s your favorite type of puzzle or game?
+If you could grow any plant perfectly, what would it be?
+What’s an unusual fact you know that blows people’s minds?
+What’s the coolest DIY project you’ve done or seen?
+If you could have a robot do any one task for you, what would it be?
+What’s your favorite thing to collect or would like to collect?
+What’s the best thing about your morning routine?
+What’s the last adventure you went on?
+If you could be famous for a day, what would you want to be known for?
+What’s your favorite way to give back to others?
